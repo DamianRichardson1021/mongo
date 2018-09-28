@@ -1,2 +1,2 @@
-# mongo
-mongo db working app 
+# News-Scraper
+Rutgers Coding Bootcamp Week 18 Homework
