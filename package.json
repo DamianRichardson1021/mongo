@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/a-murph/News-Scraper/issues"
+    "url": "https://github.com/DamianRichardson1021/issues"
   },
-  "homepage": "https://github.com/a-murph/News-Scraper#readme",
+  "homepage": "https://github.com/DamianRichardson1021/News-Scraper#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
